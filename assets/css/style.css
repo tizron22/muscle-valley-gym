@@ -3,8 +3,60 @@
     padding: 0;
     border: 0;
 }
-
+html, body{
+    height: 100%;
+}
 body {
     font-family: Calibri, sans-serif;
     color: #777777;
+}
+
+nav {
+    overflow: hidden;
+}
+
+h2{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #555555;
+}
+
+#company-name{
+    float: left;
+    font-size: 140%;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+}
+
+#muscle-valley-logo{
+    width: 55px;
+    height: auto;
+}
+
+#menu{
+    float: right;
+    font-size: 100%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+#company-name, #menu{
+    line-height: 50px;
+}
+
+#menu li{
+    float: left;
+    margin-right: 30px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #777777;
+}
+
+section{
+    overflow: hidden;
 }
