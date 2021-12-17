@@ -24,7 +24,7 @@
 ### Pictures
 ***
 >#### Muscle Valley Logo 
->Created from using Font Awesome Solid Dumbbell and Solid Mountain icons, desiging the final logo in Microsoft PowerPoint before saving the final image as an external file. 
+>Created from using Font Awesome Solid Dumbbell and Solid Mountain icons, designing the final logo in Microsoft PowerPoint before saving the final image as an external file. 
 >- [Solid Dumbell](https://upload.wikimedia.org/wikipedia/commons/1/16/Font_Awesome_5_solid_dumbbell.svg)
 >- [Solid Mountain](https://upload.wikimedia.org/wikipedia/commons/7/73/Font_Awesome_5_solid_mountain.svg)
 ***
