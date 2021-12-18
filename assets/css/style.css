@@ -76,11 +76,11 @@ footer{
 .contact-details, .opening-times{
     font-size: 80%;
     text-align: center;
-    margin-bottom: 10px;
+    padding: 2.5% 0 2.5% 0;
 }
 
 .bank-holiday-exclude{
-    margin-top: 10px;
+    margin-top: 5px;
     font-size: 80%;
 }
 
@@ -98,7 +98,5 @@ footer{
 
 .social-media i{
     font-size: 160%;
-    /* margin: 1%;
-    padding: 5%; */
     color: #777777;
 }
