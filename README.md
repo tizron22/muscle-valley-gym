@@ -1,5 +1,6 @@
 # Muscle Valley Gym - `The Welsh answer to Muscle Beach`
 
+[Click here to view website on GitHub Pages](https://tizron22.github.io/muscle-valley-gym/).
 ## Table Contents
 >
 >
