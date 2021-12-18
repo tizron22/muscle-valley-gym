@@ -57,22 +57,48 @@ a > h2{
 
 footer{
     height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.gym-location{
+    background: 
+        url(../images/musclevalleymaplocation.png)
+        no-repeat
+        center center
+    ;  
+    width: 340px;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.contact-details, .opening-times{
+    font-size: 80%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.bank-holiday-exclude{
+    margin-top: 10px;
+    font-size: 80%;
 }
 
 .social-media{
-    text-align: center;
     display: flex;
     justify-content: space-around;
-    align-items: flex-end;
+    align-items: center;
+    margin-bottom: 10px;
 }
 
 .social-media li{
     list-style-type: none;
+    margin: 10px 15px;
 }
 
 .social-media i{
     font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+    /* margin: 1%;
+    padding: 5%; */
     color: #777777;
 }
