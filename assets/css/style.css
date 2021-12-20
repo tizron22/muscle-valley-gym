@@ -55,6 +55,53 @@ a > h2{
     border-bottom: 1px solid #777777;
 }
 
+
+#home-hero-outer{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#home-hero-image{
+    max-width: 2400px;
+    max-height: 1602px;
+    width: 100%;
+    height: auto;
+}
+
+  @keyframes flickerAnimation {
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+  }
+  @-o-keyframes flickerAnimation{
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+  }
+  @-moz-keyframes flickerAnimation{
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+  }
+  @-webkit-keyframes flickerAnimation{
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+  }
+
+#join-us{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: rgba(241, 109, 107, 1);
+    text-align: center;
+
+    -webkit-animation: flickerAnimation 8s infinite;
+    -moz-animation: flickerAnimation 8s infinite;
+    -o-animation: flickerAnimation 8s infinite;
+     animation: flickerAnimation 8s infinite;
+}
+
 footer{
     height: 150px;
     display: flex;
