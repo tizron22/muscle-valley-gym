@@ -45,6 +45,9 @@
 
 ### Code Snippets
 ---
+>#### Flickering Animation
+>The flicker animation snippet was taken from a StackOverFlow entry called `Simple CSS Animation Loop – Fading In & Out "Loading" Text` and has been adapted for the Join-Us text throughout the webpage.
+>- [Simple CSS Animation Loop – Fading In & Out "Loading" Text](https://stackoverflow.com/questions/23985018/simple-css-animation-loop-fading-in-out-loading-text/31458204)
 
 
 ### Pictures
@@ -54,3 +57,6 @@
 >- [Solid Dumbell](https://upload.wikimedia.org/wikipedia/commons/1/16/Font_Awesome_5_solid_dumbbell.svg)
 >- [Solid Mountain](https://upload.wikimedia.org/wikipedia/commons/7/73/Font_Awesome_5_solid_mountain.svg)
 ---
+
+>#### Home Page Hero Image
+> Photo by [Luis Vidal](https://unsplash.com/photos/FodEsaNZs48?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
