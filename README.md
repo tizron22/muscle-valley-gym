@@ -50,7 +50,7 @@
 >- [Simple CSS Animation Loop – Fading In & Out "Loading" Text](https://stackoverflow.com/questions/23985018/simple-css-animation-loop-fading-in-out-loading-text/31458204)
 ---
 >#### Bootstrap Carousel
->Sample code used from bootstrap website as the template for this website, the code was adapted to suit needs credit for the code is from bootstrap. 
+>Sample code used from bootstrap website as the template for this website, the code was adapted to suit needs credit for the code is from bootstrap.
 >- [Get Bootstrap Carousel](https://getbootstrap.com/docs/5.0/components/carousel/)
 
 
@@ -63,4 +63,15 @@
 ---
 
 >#### Home Page Hero Image
-> Photo by [Luis Vidal](https://unsplash.com/photos/FodEsaNZs48?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- Photo by [Luis Vidal](https://unsplash.com/photos/FodEsaNZs48?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+
+>#### About-Us Hero Image
+>- Photo by [Danielle Cerullo](https://unsplash.com/photos/CQfNt66ttZM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+
+>#### Carousel Images
+>- **Cycling** - Photo by [Trust "Tru" Katsande](https://unsplash.com/photos/A_ftsTh53lM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- **Workout Machines** - Photo by [ŞULE MAKAROĞLU](https://unsplash.com/photos/YFmvjO3TP_s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- **Free Weights** - Photo by [Sushil Ghimire](https://unsplash.com/photos/eFx1KZhaSvo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- **Yoga** - Photo by [Anupam Mahapatra](https://unsplash.com/photos/Vz0RbclzG_w?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash
+>- **Aerobics** - Photo by [Sven Mieke](https://unsplash.com/photos/Lx_GDv7VA9M?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- **Personal Training** - Photo by [Jonathan Borba](https://unsplash.com/photos/R0y_bEUjiOM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
