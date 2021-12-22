@@ -75,3 +75,5 @@
 >- **Yoga** - Photo by [Anupam Mahapatra](https://unsplash.com/photos/Vz0RbclzG_w?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash
 >- **Aerobics** - Photo by [Sven Mieke](https://unsplash.com/photos/Lx_GDv7VA9M?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 >- **Personal Training** - Photo by [Jonathan Borba](https://unsplash.com/photos/R0y_bEUjiOM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- **Club Running** - Photo by [Sherise VD](https://unsplash.com/photos/Atohf63B8Dg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- **Social Gatherings** - Photo by [Omar Lopez](https://unsplash.com/photos/vsgdG95Ehyo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
