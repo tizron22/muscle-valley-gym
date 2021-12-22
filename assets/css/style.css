@@ -61,6 +61,18 @@ a > h1{
     position: relative;
 }
 
+.gym-slogan{
+    position: absolute;  
+    left: 50%;
+    top: 10%;       
+    transform: translate(-50%, -50%);
+
+    font-size: 15px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.8);
+}
+
 .home-hero-image{
     max-width: 2400px;
     max-height: 1602px;
