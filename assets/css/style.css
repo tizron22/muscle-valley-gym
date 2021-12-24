@@ -141,6 +141,20 @@ a > h1{
     color: black;
 }
 
+#testimonial-inner{
+    display: flex;
+    font-size: 13px;
+    flex-direction: column;
+    text-align: center;
+    margin: 5%;
+}
+
+div.testimonial > p{
+    padding: 5px;
+    border: black 1px solid;
+}
+
+
 footer{
     height: 150px;
     display: flex;
