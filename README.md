@@ -48,10 +48,15 @@
 >#### Flickering Animation
 >The flicker animation snippet was taken from a StackOverFlow entry called `Simple CSS Animation Loop – Fading In & Out "Loading" Text` and has been adapted for the Join-Us text throughout the webpage.
 >- [Simple CSS Animation Loop – Fading In & Out "Loading" Text](https://stackoverflow.com/questions/23985018/simple-css-animation-loop-fading-in-out-loading-text/31458204)
----
+
 >#### Bootstrap Carousel
 >Sample code used from bootstrap website as the template for this website, the code was adapted to suit needs credit for the code is from bootstrap.
 >- [Get Bootstrap Carousel](https://getbootstrap.com/docs/5.0/components/carousel/)
+
+### Videos
+---
+>#### About-us Video
+> Video by [Scott Holmes Music](scottholmesmusic.com) on YouTube.com.
 
 
 ### Pictures
@@ -60,13 +65,15 @@
 >Created from using Font Awesome Solid Dumbbell and Solid Mountain icons, designing the final logo in Microsoft PowerPoint before saving the final image as an external file. 
 >- [Solid Dumbell](https://upload.wikimedia.org/wikipedia/commons/1/16/Font_Awesome_5_solid_dumbbell.svg)
 >- [Solid Mountain](https://upload.wikimedia.org/wikipedia/commons/7/73/Font_Awesome_5_solid_mountain.svg)
----
 
 >#### Home Page Hero Image
 >- Photo by [Luis Vidal](https://unsplash.com/photos/FodEsaNZs48?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 
 >#### About-Us Hero Image
 >- Photo by [Danielle Cerullo](https://unsplash.com/photos/CQfNt66ttZM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- Photo by [Victor Freitas](https://unsplash.com/photos/nlZTjUZX2qo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+>- Photo by [Gabin Vallet](https://unsplash.com/photos/J154nEkpzlQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+
 
 >#### Carousel Images
 >- **Cycling** - Photo by [Trust "Tru" Katsande](https://unsplash.com/photos/A_ftsTh53lM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
