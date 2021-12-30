@@ -23,17 +23,19 @@ a > h1{
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #555555;
+    line-height: 1px;
 }
 
 #company-name{
     font-size: 140%;
-    margin-top: 10px;
+    margin: 10px 0 8px 0;
+    font-weight: 400;
 }
 
 #muscle-valley-logo{
     width: 55px;
     height: auto;
-    margin-top: -10px;
+    /* margin-top: -10px; */
 }
 
 #menu{
@@ -42,6 +44,11 @@ a > h1{
     font-size: 100%;
     list-style-type: none;
     letter-spacing: 2px;
+}
+
+nav > ul {
+    margin: 0;
+    padding: 0;
 }
 
 #menu li{
@@ -76,6 +83,11 @@ a > h1{
 .home-hero-image{
     max-width: 2400px;
     max-height: 1602px;
+    width: 100%;
+    height: auto;
+}
+
+iframe{
     width: 100%;
     height: auto;
 }
@@ -141,6 +153,29 @@ a > h1{
     color: black;
 }
 
+.about-us-description{
+    display: flex;
+    flex-direction: column;
+}
+
+.about-us-text{
+    font-size: 120%;
+}
+
+.about-us-coaching{
+    max-width: 903px;
+    max-height: 756px;
+    width: 100%;
+    height: auto;
+}
+
+.about-us-group{
+    max-width: 902px;
+    max-height: 756px;
+    width: 100%;
+    height: auto;
+}
+
 #testimonial-inner{
     display: flex;
     font-size: 13px;
@@ -153,7 +188,6 @@ div.testimonial > p{
     padding: 5px;
     border: black 1px solid;
 }
-
 
 footer{
     height: 150px;
