@@ -55,6 +55,10 @@
 >- [Get Bootstrap Modal](https://getbootstrap.com/docs/5.0/components/modal/)
 >- [Get Bootstrap Forms](https://getbootstrap.com/docs/5.0/forms/overview/)
 
+>#### Love Running
+>Some CSS code used from the Love Running CI instructor lead project was used for this website. 
+>- [Love Running 2.0](https://github.com/Code-Institute-Org/love-running-2.0)
+
 ### Videos
 ---
 >#### About-us Video
