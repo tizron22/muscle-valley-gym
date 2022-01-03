@@ -1,5 +1,5 @@
 
-/* Global Styles for sheets */
+/* <!-- Global Styles for sheets --> */
 * {
     margin: 0;
     padding: 0;
@@ -16,12 +16,13 @@ body {
     background-color: rgba(22,18,15, 0.998);
 }
 
-
+/* <!-- Header --> */
 
 nav {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    background-color: rgba(250, 250, 250, .05);
 }
 
 nav > a{
@@ -73,6 +74,8 @@ nav > ul {
     border-bottom: 1px solid #777777;
 }
 
+ /* <!-- Home Hero Image --> */
+
 .home-hero-outer{
     position: relative;
 }
@@ -94,7 +97,7 @@ nav > ul {
     max-height: 1602px;
     width: 100%;
     height: auto;
-    opacity: 0.5;
+    opacity: 1;
 }
 
 iframe{
@@ -154,6 +157,7 @@ iframe{
     color: red;
 }
 
+ /* <!-- Home Carousel --> */
 .carousel-header{
     margin: 20px 0 0 0;
     background-color: #777;
@@ -174,6 +178,8 @@ iframe{
     background-color: rgba(199, 199, 199, .6);
     color: black;
 }
+
+
 
 .about-us-description{
     display: flex;
@@ -198,6 +204,8 @@ iframe{
     height: auto;
 }
 
+ /* <!-- Home Testimonials -->S */
+
 #testimonial-inner{
     display: flex;
     font-size: 13px;
@@ -213,11 +221,11 @@ div.testimonial > p{
     background-color: rgba(199, 199, 199, .1)
 }
 
+ /* <!-- Footers --> */
+
 footer{
-    /* margin-top: 10px; */
     padding-top: 15px;
     background-color: rgba(250, 250, 250, .05);
-    /* height: 150px; */
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
