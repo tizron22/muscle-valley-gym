@@ -36,8 +36,49 @@
         </nav>
     </header>
 
-    <section>
-            Hero Image then sign-up form and full contact details ontop of the hero image
+    <section class="join-us-hero">
+        <div class="membership-options">
+
+        </div>
+        <div class="modal" tabindex="-1">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title">Join Us Now!</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form action="https://formdump.codeinstitute.net/" method="POST">
+                        <div class="mb-3">
+                            <label for="firstName" class="form-label">First Name</label>
+                            <input type="text" class="form-control" id="firstName" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="lastName" class="form-label">Last Name</label>
+                            <input type="text" class="form-control" id="lastName" required>
+                        </div>
+                        <div class="mb-3">
+                          <label for="email" class="form-label">Email address</label>
+                          <input type="email" class="form-control" id="email" required>
+                        </div>
+                        <div class="mb-3">
+                          <label for="password" class="form-label">Password</label>
+                          <input type="password" class="form-control" id="password" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="repeatPassword" class="form-label"> Repeat Password</label>
+                            <input type="password" class="form-control" id="repeatPassword" required>
+                        </div>
+                        <div class="mb-3 form-check">
+                          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                          <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+              </div>
+            </div>
+        </div>
     </section>
 
     <footer>
