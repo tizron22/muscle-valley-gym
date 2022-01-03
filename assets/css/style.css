@@ -154,16 +154,18 @@ iframe{
 }
 
 #join-us a:hover{
-    color: red;
+    color: rgb(101, 15, 30);
 }
 
  /* <!-- Home Carousel --> */
-.carousel-header{
-    margin: 20px 0 0 0;
-    background-color: #777;
-    /* color: black; */
-    font-size: 120%;
+
+ .carousel-header{
+    background-color: rgba(199, 199, 199, .1);
+    color: #fafafa;
+    font-size: 110%;
+    text-transform: uppercase;
     text-align: center;
+    margin-bottom: 0;
 }
 
 .carousel-item{
