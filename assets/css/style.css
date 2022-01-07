@@ -115,6 +115,7 @@ iframe{
             box-shadow: 0 0 10px rgba(50, 226, 241, 0.9);
     }
 }
+
 #join-us{
     position: absolute;  
     left: 50%;
@@ -338,6 +339,10 @@ footer{
         left: 35%;
     }
 
+    .testimonial{
+        font-size: 1.5em;
+    }
+
     nav {
         justify-content: space-between;
         margin-left: 40px;
@@ -368,11 +373,8 @@ footer{
 
     .membership-levels{
         width: 30%;
-        /* height: 50vh; */
-        text-align: center;
-     
-    }
-    
+        text-align: center;    
+    }    
 }
 
 @media screen and (min-width:1200px){
@@ -391,5 +393,8 @@ footer{
     .carousel-text{
         font-size: 3.5em;
     }
-    
+
+    .testimonial{
+        margin: 10px;
+    }
 }
