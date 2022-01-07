@@ -45,9 +45,9 @@
 
 ### Code Snippets
 ---
->#### Flickering Animation
->The flicker animation snippet was taken from a StackOverFlow entry called `Simple CSS Animation Loop – Fading In & Out "Loading" Text` and has been adapted for the Join-Us text throughout the webpage.
->- [Simple CSS Animation Loop – Fading In & Out "Loading" Text](https://stackoverflow.com/questions/23985018/simple-css-animation-loop-fading-in-out-loading-text/31458204)
+>#### Glowing Border
+>The border animation snippet was  taken from a StackOverFlow entry called `Animated glowing border using CSS` and has been adapted for the Join-Us text throughout the webpage.
+>- [Animated glowing border using CSS](https://stackoverflow.com/questions/15008931/animated-glowing-border-using-css-js)
 
 >#### Bootstrap
 >Sample code used from bootstrap website as the template for this website, the code was adapted to suit needs credit for the code is from bootstrap.
