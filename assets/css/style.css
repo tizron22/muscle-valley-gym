@@ -223,6 +223,7 @@ iframe{
 
 .membership-levels h4{
     text-decoration: underline;
+    font-weight: 700;
 }
 
 .membership-levels ul{
@@ -253,6 +254,11 @@ iframe{
      color: black;
      background-color: rgb(200, 200, 200);
  }
+
+.radio-buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
 
  /* <!-- Home Testimonials -->S */
 
