@@ -281,6 +281,11 @@ footer{
     flex-wrap: wrap;
 }
 
+.testimonial-person{
+    font-weight: 600;
+    font-style: italic;
+}
+
 .gym-location{
     background: 
         url(../images/musclevalleymaplocation.png)
