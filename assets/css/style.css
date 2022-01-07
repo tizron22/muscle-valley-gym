@@ -41,7 +41,7 @@ a > h1{
 
 #company-name{
     font-size: 140%;
-    margin: 10px 0 8px 0;
+    margin: 20px 0 10px 0;
     font-weight: 400;
 }
 
@@ -49,6 +49,7 @@ a > h1{
     width: 55px;
     height: auto;
     color: rgb(250, 250, 250);
+    margin-top: -10px;
 }
 
 #menu{
@@ -62,6 +63,7 @@ a > h1{
 nav > ul {
     margin: 0;
     padding: 0;
+    margin-top: 5px;
 }
 
 #menu li{
@@ -185,7 +187,12 @@ iframe{
 }
 
 .about-us-text{
+    padding: 5px;
+    border: rgba(250, 250, 250, .1) 1px solid;
+    border-radius: 10px;
+    background-color: rgba(199, 199, 199, .1);
     font-size: 120%;
+    text-align: center;
 }
 
 .about-us-coaching{
@@ -201,6 +208,16 @@ iframe{
     width: 100%;
     height: auto;
 }
+
+.services{
+    padding: 5px;
+    border: rgba(250, 250, 250, .1) 1px solid;
+    border-radius: 10px;
+    background-color: rgba(199, 199, 199, .1);
+    font-size: 120%;
+    text-align: center;
+}
+
 
  /* <!-- Join-us Gym Membership Options --> */
 
@@ -279,7 +296,7 @@ div.testimonial > p{
     padding: 5px;
     border: rgba(250, 250, 250, .1) 1px solid;
     border-radius: 10px;
-    background-color: rgba(199, 199, 199, .1)
+    background-color: rgba(199, 199, 199, .1);
 }
 
  /* <!-- Footers --> */
