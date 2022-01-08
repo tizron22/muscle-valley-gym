@@ -8,6 +8,7 @@
 
 ul {
     padding-left: 0;
+    list-style-type: none;
 }
 
 body {
@@ -109,11 +110,6 @@ nav > ul {
     opacity: 1;
 }
 
-iframe{
-    width: 100%;
-    height: auto;
-}
-
 @keyframes glow {
     to {
         border-color: rgba(50, 226, 241, 0.9);
@@ -179,15 +175,30 @@ iframe{
     color: rgb(0, 0 , 0);
 }
 
+ /* <!-- About-Us sheet --> */
 
+#about-outer-hero{
+    height: 100%;
+}
 
-.about-us-description{
+.video-viewport{
+    height: 80%;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+}
+
+.about-us-description, .about-us-services{
     display: flex;
     flex-direction: column;
+    margin: 10px;
 }
 
 .about-us-text{
     padding: 5px;
+    margin-bottom: 10px;
     border: rgba(250, 250, 250, .1) 1px solid;
     border-radius: 10px;
     background-color: rgba(199, 199, 199, .1);
@@ -196,17 +207,16 @@ iframe{
 }
 
 .about-us-coaching{
-    max-width: 903px;
-    max-height: 756px;
     width: 100%;
     height: auto;
+    border-radius: 2%;
 }
 
 .about-us-group{
-    max-width: 902px;
-    max-height: 756px;
     width: 100%;
     height: auto;
+    border-radius: 2%;
+    margin-bottom: 10px;
 }
 
 .services{
@@ -246,10 +256,6 @@ iframe{
 .membership-levels h4{
     text-decoration: underline;
     font-weight: 700;
-}
-
-.membership-levels ul{
-    list-style-type: none;
 }
 
 .membership-price{
