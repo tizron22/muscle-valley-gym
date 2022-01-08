@@ -132,7 +132,7 @@ nav > ul {
     transition: border 3.0s linear, box-shadow 3.0s linear;
 }
 
-#join-us a{
+a #join-us{
     text-decoration: none;
     color: rgb(255, 77, 0);
     text-transform: uppercase;
@@ -146,7 +146,7 @@ nav > ul {
      animation-play-state: paused;
 }
 
-#join-us a:hover{
+a #join-us:hover{
     color: 	rgb(255, 0, 0);
 }
 
@@ -165,8 +165,7 @@ nav > ul {
 .carousel-item{
     object-fit: cover;
     width: 100%;
-    height: auto;
-    
+    height: 100%;
 }
 
 .carousel-text{
@@ -340,6 +339,7 @@ footer{
 .bank-holiday-exclude{
     margin-top: 5px;
     font-size: 80%;
+    font-style: italic;
 }
 
 .social-media{
