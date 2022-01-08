@@ -380,12 +380,7 @@ footer{
         justify-content: space-between;
         margin-left: 40px;
         margin-right: 40px;
-    }
-
-    .full-viewport{
-        height: 100%;
-    }
-    
+    }    
 }
 
 @media screen and (min-width:900px){
@@ -408,6 +403,12 @@ footer{
         width: 30%;
         text-align: center;    
     }    
+}
+
+@media screen and (min-width:900px) and (min-height: 400px){
+    .full-viewport{
+        height: 100%;
+    }
 }
 
 @media screen and (min-width:1200px){
