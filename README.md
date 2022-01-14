@@ -2,10 +2,28 @@
 
 [Click here to view website on GitHub Pages](https://tizron22.github.io/muscle-valley-gym/).
 ## Table Contents
->
->
->
->
+>1. [Overview](#overview)
+>2. [UX](#ux)
+>    1. [Strategy](#strategy)
+>    2. [Scope](#scope)
+>    3. [Structure](#structure)
+>    4. [Skeleton](#skeleton)
+>    5. [Surface](#surface)
+>3. [Features](#features)
+>    1. [Existing Features](#existing-features)
+>    2. [Future Feature Considerations](#future-feature-considerations)
+>4. [Technologies Used](#technologies-used) 
+>5. [Testing](#testing)
+>6. [Deployment](#deployment)
+>    1. [How this Project was Deployed](#how-this-project-was-deployed)
+>    2. [How to Run this Project in your Browser](#how-to-run-this-project-in-your-browser)
+>    3. [How to Run this Project Locally](#how-to-run-this-project-locally)
+>7. [Credits](#credits)
+>    1. [Code Snippets](#code-snippets)
+>    2. [Videos](#videos)
+>    3. [Pictures](#pictures)
+>8. [Acknowledgements](#acknowledgements)
+>9. [Disclaimer](#disclaimer)
 
 ## Overview
 
