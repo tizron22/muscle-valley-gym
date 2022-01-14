@@ -201,7 +201,7 @@ iframe{
     border: rgba(250, 250, 250, .1) 1px solid;
     border-radius: 10px;
     background-color: rgba(199, 199, 199, .1);
-    font-size: 120%;
+    font-size: 100%;
     text-align: center;
 }
 
@@ -223,7 +223,7 @@ iframe{
     border: rgba(250, 250, 250, .1) 1px solid;
     border-radius: 10px;
     background-color: rgba(199, 199, 199, .1);
-    font-size: 120%;
+    font-size: 100%;
     text-align: center;
 }
 
@@ -397,6 +397,39 @@ footer{
 
     .carousel-header{
         font-size: 2em;
+    }
+
+    .about-us-description{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .about-us-text{
+        width: 60%;
+        margin-bottom: 0;
+    }
+
+    .about-us-coaching{
+        width: 39.5%;
+        object-fit: cover;
+    }
+
+    .about-us-services{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .about-us-group{
+        width: 39.5%;
+        object-fit: cover;
+        margin-bottom: 0;
+    }
+
+    .services{
+        width: 60%;
+        margin-bottom: 0;
     }
     
     .membership-options{
