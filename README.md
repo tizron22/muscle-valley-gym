@@ -59,6 +59,23 @@ Having a website that will allow potential customers a glimpse into the unique c
 4. `As a new customer, I would like to easily join the gym online.`
 ---
 
+## Scope
+
+### Requirements
+
+## Structure
+
+>### Home Page
+>- Shows a breakdown of the company including logo, services and slogan.
+>- Includes various images to display the services provided.
+
+>### About-Us Page
+>- Shows a montage of people working out to an upbeat theme.
+>- Explains the reason behind the gym and services. 
+
+>### Join-Us
+>- Shows the membership structure and cost involved in each level.
+>- Allows users to register an interest to joining.
 
 
 
