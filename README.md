@@ -27,10 +27,15 @@
 
 ## Overview
 
->**Muscle Valley Gym**
+**Muscle Valley Gym**
+
+Muscle Valley Gym was created from the COVID-19 pandemic after the owners notice a change to the new normal where people needed somewhere safe and engaging to interact with others whilst being able to improve both physical and mental health. 
+
+Having a website that will allow potential customers a glimpse into the unique culture and the services the gym provides will be in most cases the first impression of the company.
 
 ---
 
+# UX
 
 ## Strategy
 
