@@ -211,7 +211,6 @@ Changes were made during development from the wireframes to improve the flow and
 >#### About-us Video
 > Video by [Scott Holmes Music](scottholmesmusic.com) on YouTube.com.
 
-
 ### Pictures
 
 >#### Muscle Valley Logo 
@@ -223,10 +222,11 @@ Changes were made during development from the wireframes to improve the flow and
 >- Photo by [Luis Vidal](https://unsplash.com/photos/FodEsaNZs48?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 
 >#### About-Us Hero Image
->- Photo by [Danielle Cerullo](https://unsplash.com/photos/CQfNt66ttZM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 >- Photo by [Victor Freitas](https://unsplash.com/photos/nlZTjUZX2qo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 >- Photo by [Gabin Vallet](https://unsplash.com/photos/J154nEkpzlQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 
+>#### Join-Us Hero Image
+>- Photo by [Danielle Cerullo](https://unsplash.com/photos/CQfNt66ttZM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 
 >#### Carousel Images
 >- **Cycling** - Photo by [Trust "Tru" Katsande](https://unsplash.com/photos/A_ftsTh53lM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
@@ -237,4 +237,13 @@ Changes were made during development from the wireframes to improve the flow and
 >- **Personal Training** - Photo by [Jonathan Borba](https://unsplash.com/photos/R0y_bEUjiOM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 >- **Club Running** - Photo by [Sherise VD](https://unsplash.com/photos/Atohf63B8Dg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 >- **Social Gatherings** - Photo by [Omar Lopez](https://unsplash.com/photos/vsgdG95Ehyo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+---
+
+# Acknowledgements
+
+
+---
+# Disclaimer
+**This website is for educational purposes only.**
+-
 ---
