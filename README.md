@@ -1,6 +1,10 @@
 # Muscle Valley Gym - `The Welsh Answer to Muscle Beach`
+---
+![Site Responsiveness](./assets/images/Multi-Screens.jpg)
 
 [Click here to view website on GitHub Pages](https://tizron22.github.io/muscle-valley-gym/).
+
+---
 ## Table Contents
 >1. [Overview](#overview)
 >2. [UX](#ux)
@@ -117,6 +121,14 @@ Changes were made during development from the wireframes to improve the flow and
 
 ### Existing Features
 
+#### Responsive Layout and design
+
+#### Modals
+
+#### Carousel
+
+#### Register Interest Form
+
 ### Future Feature Considerations
 
 ---
@@ -135,6 +147,10 @@ Changes were made during development from the wireframes to improve the flow and
 >- The project's CSS was validated using [W3C jigsaw CSS validator](https://jigsaw.w3.org/css-validator/).
 >- The project's performance and accessibility was tested using [Google Chrome's Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WebAim's W.A.V.E](https://wave.webaim.org/).
 >- The project's images were compressed via [tinyjpg](https://tinyjpg.com/) to improve the sites performance.
+---
+# Testing
+
+
 ---
 
 # Deployment
