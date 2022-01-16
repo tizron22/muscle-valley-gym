@@ -203,6 +203,8 @@ iframe{
     background-color: rgba(199, 199, 199, .1);
     font-size: 100%;
     text-align: center;
+    padding: 2.5% ;
+
 }
 
 .about-us-coaching{
@@ -225,6 +227,7 @@ iframe{
     background-color: rgba(199, 199, 199, .1);
     font-size: 100%;
     text-align: center;
+    padding: 2.5% 0;
 }
 
 
@@ -414,6 +417,7 @@ footer{
     .about-us-text{
         width: 60%;
         margin-bottom: 0;
+        font-size: 110%;
     }
 
     .about-us-coaching{
@@ -436,6 +440,7 @@ footer{
     .services{
         width: 60%;
         margin-bottom: 0;
+        font-size: 110%;
     }
     
     .membership-options{
@@ -475,5 +480,19 @@ footer{
 
     .testimonial{
         margin: 10px;
+    }
+}
+
+@media screen and (min-width: 1650px){
+
+    .about-us-text{
+        font-size: 200%;
+    }
+
+    .services h4{
+        font-size: 200%;
+    }
+    .services{
+        font-size: 200%;
     }
 }
