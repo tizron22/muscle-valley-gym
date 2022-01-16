@@ -135,7 +135,58 @@ Changes were made during development from the wireframes to improve the flow and
 >- The project's CSS was validated using [W3C jigsaw CSS validator](https://jigsaw.w3.org/css-validator/).
 >- The project's performance and accessibility was tested using [Google Chrome's Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WebAim's W.A.V.E](https://wave.webaim.org/).
 >- The project's images were compressed via [tinyjpg](https://tinyjpg.com/) to improve the sites performance.
+---
 
+# Deployment
+
+>## How this Project was Deployed
+>This project was deployed to GitHub pages via the following steps:
+> 1. Log into [GitHub](https://github.com/).
+> 2. From the list of Repositories then select [tizron22/muscle-valley-gym](https://github.com/tizron22/muscle-valley-gym).
+> 3. From the Repository sub-headings then select "Settings".
+> 4. Within the settings list underneath "Options" then select "Pages".
+> 5. From the dropdown list under the "Source" heading then select "main".
+> 6. A second drop-down menu that appears should remain as the default value "/root".
+> 7. Press save. 
+> 8. On Page refresh navigate to the "Pages" in settings and the link to the deployed site should be visibile in a green sub-section with a tick icon next to it on the left.
+>
+>As this project was created on the main branch all changes made to the repository are shown in the deployed project within a few minutes from being pushed.
+
+>## How to Run this Project in your Browser
+> 1. Install the [Google Chrome](https://www.google.co.uk/chrome/) browser.
+> 2. Install [GitPod](https://www.gitpod.io/docs/browser-extension/) browser extension.
+> 3. Create a [GitHub](https://github.com/join) account. 
+> 4. Log in to [Gitpod](https://gitpod.io/login/) using your GitHub account.
+> 5. Visit Muscle Valley Gym [GitHub Repository](https://github.com/tizron22/muscle-valley-gym).
+> 6. Open the repository in Gitpod:
+>    - Click the green "Gitpod" icon at the top of the Repository, or
+>    - Click this [link](https://gitpod.io/#https://github.com/tizron22/muscle-valley-gym).
+> 7. A new workspace should open with the current code of the main branch. Any changes made to the main branch after this point will not be updated in your Gitpod workspace automatically.
+
+>## How to Run this Project Locally
+>>### Cloning the Repository
+>> 1. Visit Muscle Valley Gym [GitHub Repository](https://github.com/tizron22/muscle-valley-gym).
+>> 2. Click the "Code" dropdown box above the repository's file explorer. 
+>> 3. Under the "Clone" heading click the "HTTPS" sub-heading.
+>> 4. Click the clipboard icon or manually copy the text presented: `https://github.com/tizron22/muscle-valley-gym.git`
+>> 5. Open your preferred IDE (VSCode, Notepad++ etc).
+>> 6. Ensure your IDE has support for GIT or has the relevant GIT extension.
+>> 7. Open the terminal and create a directory where you would like the Repository to be stored.
+>> 8. Type `git clone` and paste the previously copied text (`https://github.com/tizron22/muscle-valley-gym.git`) and press enter.
+>> 9. The Repository will then be cloned to your selected directory. 
+>
+>>### Manually Downloading the Repository
+>> 1. Visit Muscle Valley Gym [GitHub Repository](https://github.com/tizron22/muscle-valley-gym).
+>> 2. Click the "Code" dropdown box above the repository's file explorer. 
+>> 3. Click the "Download ZIP" option and this will download a copy of the selected branch's repository as a zip file.
+>> 4. Locate the ZIP file downloaded to your computer and extract the ZIP to a chosen folder to which you would like the repository to be stored.
+>
+>>### Opening the Repository 
+>> 1. Open your preferred IDE (VSCode, Notepad++ etc).
+>> 2. Navigate to the chosen directory where the Repository was Cloned/Extracted.
+>> 3. You will now have offline access to the contents of the project.
+
+---
 
 ## Credits
 
