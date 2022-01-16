@@ -1,4 +1,4 @@
-# Muscle Valley Gym - `The Welsh answer to Muscle Beach`
+# Muscle Valley Gym - `The Welsh Answer to Muscle Beach`
 
 [Click here to view website on GitHub Pages](https://tizron22.github.io/muscle-valley-gym/).
 ## Table Contents
@@ -63,6 +63,20 @@ Having a website that will allow potential customers a glimpse into the unique c
 
 ### Requirements
 
+> Easy to Navigate and User Friendly
+>- Similar structure across the pages.
+>- Straight forward and uncomplicated view.
+
+> Rememberable
+>- Visitors must be able to remember the site. 
+>- Having a slogan will help with this.
+
+> Show the inclusive culture
+>- Include images of various members.
+>- Able to show that this gym is a home for everyone.
+>- Explain the reasoning behind the gym.
+---
+
 ## Structure
 
 >### All Sheets
@@ -84,15 +98,14 @@ Having a website that will allow potential customers a glimpse into the unique c
 >### Join-Us
 >- Shows the membership structure and cost involved in each level.
 >- Allows users to register an interest to joining using a form.
-
+---
 
 
 
 ## Credits
----
 
 ### Code Snippets
----
+
 >#### Glowing Border
 >The border animation snippet was  taken from a StackOverFlow entry called `Animated glowing border using CSS` and has been adapted for the Join-Us text throughout the webpage.
 >- [Animated glowing border using CSS](https://stackoverflow.com/questions/15008931/animated-glowing-border-using-css-js)
@@ -108,13 +121,13 @@ Having a website that will allow potential customers a glimpse into the unique c
 >- [Love Running 2.0](https://github.com/Code-Institute-Org/love-running-2.0)
 
 ### Videos
----
+
 >#### About-us Video
 > Video by [Scott Holmes Music](scottholmesmusic.com) on YouTube.com.
 
 
 ### Pictures
----
+
 >#### Muscle Valley Logo 
 >Created from using Font Awesome Solid Dumbbell and Solid Mountain icons, designing the final logo in Microsoft PowerPoint before saving the final image as an external file. 
 >- [Solid Dumbell](https://upload.wikimedia.org/wikipedia/commons/1/16/Font_Awesome_5_solid_dumbbell.svg)
@@ -138,3 +151,4 @@ Having a website that will allow potential customers a glimpse into the unique c
 >- **Personal Training** - Photo by [Jonathan Borba](https://unsplash.com/photos/R0y_bEUjiOM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 >- **Club Running** - Photo by [Sherise VD](https://unsplash.com/photos/Atohf63B8Dg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
 >- **Social Gatherings** - Photo by [Omar Lopez](https://unsplash.com/photos/vsgdG95Ehyo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) on Unsplash.
+---
