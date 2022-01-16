@@ -65,17 +65,25 @@ Having a website that will allow potential customers a glimpse into the unique c
 
 ## Structure
 
+>### All Sheets
+>- In the header to include gym name, logo and links to other sheets on the site.
+>- In the footer include to include gym location, opening hours and social media links.
+
 >### Home Page
->- Shows a breakdown of the company including logo, services and slogan.
->- Includes various images to display the services provided.
+>- Includes large hero image showing part of the gym set up with a link to the join-us page.
+>- A carousel for various images to display the services provided.
+>- Allow vistors to view some testimonies from customers to show there experience with the company.
+
 
 >### About-Us Page
->- Shows a montage of people working out to an upbeat theme.
->- Explains the reason behind the gym and services. 
+>- Shows a montage video of people working out to an upbeat theme.
+>- Explains the reason behind the gym, phlosiphy and aims for culture.
+>- Includes images to aid in showcasing our culture.
+>- A list of some of the services we provide. 
 
 >### Join-Us
 >- Shows the membership structure and cost involved in each level.
->- Allows users to register an interest to joining.
+>- Allows users to register an interest to joining using a form.
 
 
 
