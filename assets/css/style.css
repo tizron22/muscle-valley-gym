@@ -1,5 +1,59 @@
 
 /* <!-- Global Styles for sheets --> */
+/* All the variables for the different colours in the site */
+:root{
+    /* This colour is for the website background */
+    --pageBackground: rgba(22,18,15, 0.998);
+
+    /* This colour is for the header and footer */
+    --topBottomBackground: rgba(250, 250, 250, .05);
+
+    /* This is the colour for majority of the fonts */
+    --generalFontColour: rgb(250, 250, 250);
+
+    /* This is the Nav bar Hover colour */
+    --hoverNavBackground: rgba(119, 119, 119, 0.6);
+
+    /* This is the Nav Bar underline */
+    --navBarUnderline: rgb(119, 119, 119);
+
+    /* This is the colour for the Gym Slogan */
+    --gymSlogan: rgba(255, 255, 255, 0.8);
+
+    /* This is the colour for the glow of 'Join Us' on the index */
+    --joinUsGlow: rgba(50, 226, 241, 0.9);
+
+    /* This is the Font colour of the Join us on the index sheet */
+    --joinUsFont: rgb(255, 77, 0);
+
+    /* This is the colour when the Join-us or Social links are hovered */
+    --joinUsHover:rgb(255, 0, 0);
+
+    /* This is for any transparent join-us text */
+    --joinUsTransparent: rgba(255, 0, 0, 0.75);
+
+    /* This is the backfroudn colour for most of the test boxes */
+    --textBackground:rgba(199, 199, 199, .1);
+
+    /* This is the colour for the carousel txt above the images */
+    --carouselBackground: rgba(199, 199, 199, .6);
+    --carouselFont: rgb(0, 0, 0);
+
+    /* This is the colour for the txt box borders */
+    --textBoxBorder: rgba(250, 250, 250, .1);
+
+    /* This is the Membership background colour */
+    --membershipBackground: rgba(199, 199, 199, .5);
+
+    /* This is the join-us background when hovered */
+    --membershipJoinHover: rgba(250, 250, 250, 0.5);
+
+    /* This is the modal background colour */
+    --modalBackground: rgb(200, 200, 200);
+
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -13,14 +67,14 @@ ul {
 
 body {
     font-family: Calibri, sans-serif;
-    color: rgb(250, 250, 250);
-    background-color: rgba(22,18,15, 0.998);
+    color: var(--generalFontColour);
+    background-color: var(--pageBackground);
 }
 
 /* <!-- Header --> */
 
 header{
-    background-color: rgba(250, 250, 250, .05);
+    background-color: var(--topBottomBackground);
 }
 
 nav {
@@ -36,7 +90,7 @@ nav > a{
 a > h1{
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: rgb(250, 250, 250);
+    color: var(--generalFontColour);
     line-height: 1px;
 }
 
@@ -49,7 +103,7 @@ a > h1{
 #muscle-valley-logo{
     width: 55px;
     height: auto;
-    color: rgb(250, 250, 250);
+    color: var(--generalFontColour);
     margin-top: -10px;
 }
 
@@ -77,12 +131,12 @@ nav > ul {
 }
 
 #menu a:hover{
-    background-color:rgba(119, 119, 119, 0.6);
-    border-bottom: 1px solid rgb(119, 119, 119);
+    background-color:var(--hoverNavBackground);
+    border-bottom: 1px solid var(--navBarUnderline);
 }
 
 .active-sheet{
-    border-bottom: 1px solid rgb(119, 119, 119);
+    border-bottom: 1px solid var(--navBarUnderline);
 }
 
  /* <!-- Home Hero Image --> */
@@ -100,7 +154,7 @@ nav > ul {
     font-size: 15px;
     white-space: nowrap;
     text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.8);
+    color: var(--gymSlogan);
 }
 
 .home-hero-image{
@@ -112,10 +166,10 @@ nav > ul {
 
 @keyframes glow {
     to {
-        border-color: rgba(50, 226, 241, 0.9);
-        -webkit-box-shadow: 0 0 10px rgba(50, 226, 241, 0.9);
-        -moz-box-shadow: 0 0 10px rgba(50, 226, 241, 0.9);
-        box-shadow: 0 0 10px rgba(50, 226, 241, 0.9);
+        border-color: var(--joinUsGlow);
+        -webkit-box-shadow: 0 0 10px var(--joinUsGlow);
+        -moz-box-shadow: 0 0 10px var(--joinUsGlow);
+        box-shadow: 0 0 10px var(--joinUsGlow);
     }
 }
 
@@ -134,7 +188,7 @@ nav > ul {
 
 a #join-us{
     text-decoration: none;
-    color: rgb(255, 77, 0);
+    color: var(--joinUsFont);
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -147,14 +201,14 @@ a #join-us{
 }
 
 a #join-us:hover{
-    color: 	rgb(255, 0, 0);
+    color: 	var(--joinUsHover);
 }
 
  /* <!-- Home Carousel --> */
 
  .carousel-header{
-    background-color: rgba(199, 199, 199, .1);
-    color: rgb(250, 250, 250);
+    background-color: var(--textBackground);
+    color: var(--generalFontColour);
     font-size: 110%;
     text-transform: uppercase;
     text-align: center;
@@ -170,8 +224,8 @@ a #join-us:hover{
 
 .carousel-text{
     letter-spacing: 2px;
-    background-color: rgba(199, 199, 199, .6);
-    color: rgb(0, 0 , 0);
+    background-color: var(--carouselBackground);
+    color: var(--carouselFont);
 }
 
  /* <!-- About-Us sheet --> */
@@ -198,9 +252,9 @@ iframe{
 .about-us-text{
     padding: 5px;
     margin-bottom: 10px;
-    border: rgba(250, 250, 250, .1) 1px solid;
+    border: var(--textBoxBorder) 1px solid;
     border-radius: 10px;
-    background-color: rgba(199, 199, 199, .1);
+    background-color: var(--textBackground);
     font-size: 100%;
     text-align: center;
     padding: 2.5% ;
@@ -222,9 +276,9 @@ iframe{
 
 .services{
     padding: 5px;
-    border: rgba(250, 250, 250, .1) 1px solid;
+    border: var(--textBoxBorder) 1px solid;
     border-radius: 10px;
-    background-color: rgba(199, 199, 199, .1);
+    background-color: var(--textBackground);
     font-size: 100%;
     text-align: center;
     padding: 2.5% 0;
@@ -249,10 +303,10 @@ iframe{
     text-align: center;
     margin: 5px;
     padding: 5px;
-    border: rgba(250, 250, 250, .1) 1px solid;
+    border: var(--textBoxBorder) 1px solid;
     border-radius: 10px;
-    background-color: rgba(199, 199, 199, .5);
-    color: rgb(0, 0, 0);
+    background-color: var(--membershipBackground);
+    color: var(--carouselFont);
 }
 
 .membership-levels h4{
@@ -270,19 +324,19 @@ iframe{
     font-size: 140%;
     font-weight: 600;
     letter-spacing: 2px;
-    color: rgba(255, 0, 0, 0.75);
+    color: var(--joinUsTransparent);
     background-color: transparent;
 }
 
 .join-us-button:hover{
-    background-color: rgba(250, 250, 250, 0.5);
+    background-color: var(--membershipJoinHover);
 }
 
  /* <!-- Model Body --> */
 
  .modal-content{
-     color: rgb(0, 0, 0);
-     background-color: rgb(200, 200, 200);
+     color: var(--carouselFont);
+     background-color: var(--modalBackground);
  }
 
 .radio-buttons{
@@ -302,16 +356,16 @@ iframe{
 
 div.testimonial > p{
     padding: 5px;
-    border: rgba(250, 250, 250, .1) 1px solid;
+    border: var(--textBoxBorder) 1px solid;
     border-radius: 10px;
-    background-color: rgba(199, 199, 199, .1);
+    background-color: var(--textBackground);
 }
 
  /* <!-- Footers --> */
 
 footer{
     padding-top: 15px;
-    background-color: rgba(250, 250, 250, .05);
+    background-color: var(--topBottomBackground);
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
@@ -359,11 +413,11 @@ footer{
 
 .social-media i{
     font-size: 160%;
-    color: rgb(119, 119, 119);
+    color: var(--navBarUnderline);
 }
 
 .social-media i:hover{
-    color: rgb(255, 0, 0);
+    color: var(--joinUsHover);
 }
 
 @media screen and (max-width:329px){
