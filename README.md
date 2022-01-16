@@ -108,6 +108,35 @@ Having a website that will allow potential customers a glimpse into the unique c
 >- [About-Us Page Wireframe](./assets/wireframes/about-us-page.pdf)
 >- [Join-Us Page Wireframe](./assets/wireframes/join-now-page.pdf)
 
+Changes were made during development from the wireframes to improve the flow and user engagement when using the site. 
+
+## Surface
+
+---
+## Features
+
+### Existing Features
+
+### Future Feature Considerations
+
+---
+
+## Technologies Used
+
+>- The project was written in HTML and CSS.
+>- The project uses [BootStrap v5.0.2](https://getbootstrap.com/docs/5.0/getting-started/introduction/) for site standardisation, carousel and modal functionality.
+>- The project uses [FontAwesome](https://fontawesome.com/) for the free icons used for web development.
+>- The project was written in [Visual Studio Code IDE](https://code.visualstudio.com/). 
+>- The project was tested utalising [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extention in VS code.
+>- The project uses [GIT](https://git-scm.com/) for verison control and [GitHub](https://github.com/) as a remote repository.
+>- The project uses [GitHub Pages](https://pages.github.com/) for hosting the site.
+>- The project's wireframes were designed in [Balsamiq](https://balsamiq.com/wireframes/).
+>- The project's HTML was validated using [W3C HTML markup validator](https://validator.w3.org/).
+>- The project's CSS was validated using [W3C jigsaw CSS validator](https://jigsaw.w3.org/css-validator/).
+>- The project's performance and accessibility was tested using [Google Chrome's Lighthouse](https://developers.google.com/web/tools/lighthouse) and [WebAim's W.A.V.E](https://wave.webaim.org/).
+>- The project's images were compressed via [tinyjpg](https://tinyjpg.com/) to improve the sites performance.
+
+
 ## Credits
 
 ### Code Snippets
