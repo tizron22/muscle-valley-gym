@@ -363,6 +363,12 @@ footer{
     color: rgb(255, 0, 0);
 }
 
+@media screen and (max-width:329px){
+    #muscle-valley-logo{
+        display: none;
+    }
+}
+
 @media screen and (min-width:600px){
     
     .gym-slogan{   
@@ -450,7 +456,7 @@ footer{
     }
 }
 
-@media screen and (min-width:1200px){
+@media screen and (min-width:1350px){
     
     .gym-slogan{   
         font-size: 4em;
