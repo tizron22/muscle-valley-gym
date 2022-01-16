@@ -50,9 +50,7 @@
 
     /* This is the modal background colour */
     --modalBackground: rgb(200, 200, 200);
-
 }
-
 
 * {
     margin: 0;
@@ -309,7 +307,7 @@ iframe{
     color: var(--carouselFont);
 }
 
-.membership-levels h4{
+.membership-levels h2{
     text-decoration: underline;
     font-weight: 700;
 }
@@ -543,7 +541,7 @@ footer{
         font-size: 200%;
     }
 
-    .services h4{
+    .services h2{
         font-size: 200%;
     }
     .services{
