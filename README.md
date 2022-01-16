@@ -100,7 +100,13 @@ Having a website that will allow potential customers a glimpse into the unique c
 >- Allows users to register an interest to joining using a form.
 ---
 
+## Skeleton
 
+### Wireframes
+
+>- [Home Page Wireframe](./assets/wireframes/home-page.pdf)
+>- [About-Us Page Wireframe](./assets/wireframes/about-us-page.pdf)
+>- [Join-Us Page Wireframe](./assets/wireframes/join-now-page.pdf)
 
 ## Credits
 
