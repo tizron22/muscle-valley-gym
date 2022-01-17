@@ -116,20 +116,40 @@ Changes were made during development from the wireframes to improve the flow and
 
 ## Surface
 
+>### Images
+> All the images used in the project were taken from Unsplash and they were selected basis on relevance to the culture that was to be portrayed on the site. 
+
+>## Video
+> The video used in the project was taken from YouTube, licencing for this is free and credit is further down on the readme.
+
+>### Colour Scheme
+>The colour scheme was chosen due to the comptibility with the hero image of the index page, due to the dark nature of the image a darker theme was chosen to compliment this and blend in with the other elements.
+
 ---
 ## Features
 
 ### Existing Features
 
-#### Responsive Layout and design
+>#### Responsive Layout and design
+> The site has been created to be viewed on different 
 
-#### Modals
 
-#### Carousel
+>#### Modals
+> The model gathers details the visitors details to be able to register interest in joining the gym, with the details gathered will be necessary to establish rapport in the inital contact for signing up to the membership.
 
-#### Register Interest Form
+>#### Carousel
+> The carousel was created to provide visual representation into some of the services that is provided by the gym.
+
 
 ### Future Feature Considerations
+
+Due to current knowledge with Web Development, the below are enhancements that would improve user experience and allow more self-service when it comes to the membership of the gym.
+
+>#### Membership Sign Up
+> An area where potential members are able to sign up, select and create a direct debit for membership on the website would enhance user experience when using the website. 
+
+>#### Members Area
+> An area where where exisiting members are able to login and access members only content, change the type of membership, update bank details, sign up to classes and much more for improved user experience/autonomy for the business.   
 
 ---
 
