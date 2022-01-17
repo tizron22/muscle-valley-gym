@@ -131,7 +131,29 @@ Changes were made during development from the wireframes to improve the flow and
 ### Existing Features
 
 >#### Responsive Layout and design
-> The site has been created to be viewed on different 
+>- The site was built with responsiveness in mind, starting from Moto G4 view and developing the site out from this screen size first as a vast amount of users main access point to the internet will be from a mobile device. 
+>- Once developed on the smaller screen this was scaled upwards to larger devices. 
+>- Using flex-box for the responsiveness removes the need for hard coding and various media queries for each size screen.
+
+
+>#### Navigation Bar
+>- This feature was created to be at the top of the site where users will be able to switch between the different sheets that have been created, in addtion to displaying the gym name and logo.
+>- On each sheet the gym name and logo will be on the left then the menu options will be on the right. (On a smaller screen, gym name will be on the top and menu just underneath.)
+>- When clicking on the 'Home' option or 'Muscle Valley Gym' name and logo change the page to the index.html sheet/Home page.
+>- When the clicking on the 'About-us' option this will change the page to the about-us.html sheet/About Us Page. 
+>- When clicking on the 'Join Us' option this will change the page to the join-us.html/Join Us Page.
+>- When hovering over the menu options the background will lighten to show that if clicked this option would be the link the page will go to. 
+>- An underline will show underneath the exisiting page to remaind the user which page they are reviewing.
+
+>#### Footer
+>- This feature was created to be at the bottom of the site where the users will be able to obain further infomation such as location, opening time and socail media links. 
+>- On each sheet from left to right evenly spaced out will show Map location of gym, gym address and telephone number, opening hours and social media links. (On smaller screens instead of left to right it will be top to bottom.)
+>- When clicking on one of the social media icons will open up a new tab and direct you to that social media account:-
+>   - Clicking on the Facebook icon will open a new page for Facebook.
+>   - Clicking on the Twitter icon will open a new page for Twitter.
+>   - Clicking on the Instagram icon will open a new page for Instagram.
+>   - Clicking on the TikTok icon will open a new page for TikTok.
+>- When hovering over a social media icon the icon colour will change. 
 
 
 >#### Modals
