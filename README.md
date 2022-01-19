@@ -155,12 +155,28 @@ Changes were made during development from the wireframes to improve the flow and
 >   - Clicking on the TikTok icon will open a new page for TikTok.
 >- When hovering over a social media icon the icon colour will change. 
 
-
->#### Modals
-> The model gathers details the visitors details to be able to register interest in joining the gym, with the details gathered will be necessary to establish rapport in the inital contact for signing up to the membership.
+>#### Glowing Join Us Border
+>- On the home page within the hero image towards the bottom of the image is the `Join Us` text. 
+>- The border will glow blue every 3 seconds and when the mouse is hovering over it the animation will pause where the text will turn red to highlight. 
+>- This feature will entice the user to click on the link.
 
 >#### Carousel
-> The carousel was created to provide visual representation into some of the services that is provided by the gym.
+>- The carousel was created to provide 6 visual representation into some of the services that is provided by the gym underneath the hero image on the home page.
+>- Every 3 seconds the image change to then next one and remain on a consistent loop.
+>- When hovered the carousel will pause until the mouse haves moved. 
+>- Using the arrows on either side of the image will either go to the next image or back to the previous one.
+>- Near the bottom of the carousel are dashes to highlight the image that is currently selected and how many are present in the carousel.
+
+>#### Membership Levels Join-Us
+>- When the `Join Us` text is hovered the background of the text becomes lighter to highlight this is a clickable action.
+>- This will entice the user to click it which will open up a modal.
+
+>#### Modals
+>- The model gathers details the visitors details to be able to register interest in joining the gym, with the details gathered will be necessary to establish rapport in the inital contact for signing up to the membership.
+>- All the feilds on the modal are required to be filled in otherwise the form won't be able to be submitted. 
+>- To close the modal either the 'X' at the top right of the modal or the 'Close' button at the bottom right will need to be clicked.
+>- When hovering over the 'Submit' the button will turn to a darker blue, to encourage the user to click it.
+>- When the 'Submit' button is clicked the form details will be submitted to the selected location.
 
 
 ### Future Feature Considerations
