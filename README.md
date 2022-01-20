@@ -116,14 +116,29 @@ Changes were made during development from the wireframes to improve the flow and
 
 ## Surface
 
+>### Typography
+> When deciding which font to use I chose `Calibri`, as most microsoft 365 applications will use this as a default which would be the one most people will be familiar with and will find the site easier to engage with.
+
 >### Images
 > All the images used in the project were taken from Unsplash and they were selected basis on relevance to the culture that was to be portrayed on the site. 
 
->## Video
+>### Video
 > The video used in the project was taken from YouTube, licencing for this is free and credit is further down on the readme.
 
+>### Logo
+>- For the logo, this was created using Font Awesome icons to be uniquely identifiable to the gym where the dumbbell represents muscle and the two mountain icons close together represent a valley.
+>- Both combined together is `Muscle Valley`. 
+
 >### Colour Scheme
->The colour scheme was chosen due to the comptibility with the hero image of the index page, due to the dark nature of the image a darker theme was chosen to compliment this and blend in with the other elements.
+>When choosing the colour scheme it was based on the comptibility with the hero image of the index page, due to the dark nature of the image a darker theme was chosen to compliment this.
+>
+>After the background colour was picked, the rest of the colours were chosen based on if the stood out clearly to the user and the infomation was able to be read without issue. 
+>
+> The main colours used are:
+>- Background = rbga(22, 18, 15, 0.996)
+>- Font = #fafafa
+>
+>Here are all of the colours that were used on the site:- ![Site Colour Palette](./assets/images/image-gradient-theme.jpg)
 
 ---
 ## Features
@@ -208,6 +223,7 @@ Due to current knowledge with Web Development, the below are enhancements that w
 ---
 # Testing
 
+The testing documentation can be found here:- [TESTING.md](TESTING.md)
 
 ---
 
