@@ -150,7 +150,6 @@ Changes were made during development from the wireframes to improve the flow and
 >- Once developed on the smaller screen this was scaled upwards to larger devices. 
 >- Using flex-box for the responsiveness removes the need for hard coding and various media queries for each size screen.
 
-
 >#### Navigation Bar
 >- This feature was created to be at the top of the site where users will be able to switch between the different sheets that have been created, in addtion to displaying the gym name and logo.
 >- On each sheet the gym name and logo will be on the left then the menu options will be on the right. (On a smaller screen, gym name will be on the top and menu just underneath.)
@@ -193,6 +192,15 @@ Changes were made during development from the wireframes to improve the flow and
 >- When hovering over the 'Submit' the button will turn to a darker blue, to encourage the user to click it.
 >- When the 'Submit' button is clicked the form details will be submitted to the selected location.
 
+>#### Video Playback
+> The Video playback is the hero image of the about-us page that will autoplay when the user comes to the about us page. 
+> THe video will be on mute and allow the users to have control of the video such as:-
+>- Unmute
+>- Pause
+>- Go Full Screen
+>- Share
+>
+>All options that the user would have if they were on YouTube watching this video.
 
 ### Future Feature Considerations
 
@@ -330,10 +338,15 @@ The testing documentation can be found here:- [TESTING.md](TESTING.md)
 ---
 
 # Acknowledgements
+- I would like to thank my mentor **Ben Kavanagh**, who has provided a large amount of support from start of the project. Each time we've caught up always gone the extra mile by sharing links and putting my mind at ease. 
 
+- Thank you to the Slack channel leads who have created the various webinairs to supplement the LMS to improve my abilities and knowledge.
+
+- Thank you to my collegeues who were my test users for the site who reviewed the features on different devices provided feedback and encouragement throughout this project.
 
 ---
 # Disclaimer
 **This website is for educational purposes only.**
 -
+
 ---
