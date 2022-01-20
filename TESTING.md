@@ -43,8 +43,10 @@ The README documentation can be found here:- [README.md](./README.md)
 |Responsive Layout and design | Works as intended | N/A
 |Navigation Bar | Works as intended | N/A
 |Footer | Works as intended | N/A
-|Modals | Works as intended | N/A
+|Glowing Join Us Border | Works as intended | N/A
 |Carousel | Works as intended | N/A
+|Membership Levels Join-Us | Works as intended | N/A
+|Modals | Works as intended | N/A
 |Video Playback | Works as intended | N/A
 
 # Browser Testing
