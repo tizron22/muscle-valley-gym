@@ -13,7 +13,6 @@ The README documentation can be found here:- [README.md](./README.md)
 >3. [Browser Testing](#browser-testing)
 >4. [Automated Testing](#automated-testing)
 >5. [Significant Bugs](#significant-bugs)
->6. [Other Technical Difficulties](#other-technical-difficulties)
 ---
 
 # User Story Testing
@@ -71,16 +70,20 @@ The README documentation can be found here:- [README.md](./README.md)
 3.[Google Lighthouse](https://developers.google.com/web/tools/lighthouse) - Testing
 
 **Home**
+
 ![Home Lighthouse Score](./assets/images/home-lighthouse.jpg)
-**Home Page Notes**
-- When testing the performance this does not impact the user experience. 
-- To help improve performance, compressing the images via tinyjpg was used which improved performance. 
-- After sharing the link to various users for feedback, the performance did not negatively impact the experience.
+
+>**Home Page Notes**
+>- When testing the performance this does not impact the user experience. 
+>- To help improve performance, compressing the images via tinyjpg was used which improved performance. 
+>- After sharing the link to various users for feedback, the performance did not negatively impact the experience.
 
 **About Us**
+
 ![About Us Lighthouse Score](./assets/images/about-us-lighthouse.jpg)
 
 **Join Us**
+
 ![Join Us Lighthouse Score](./assets/images/join-us-lighthouse.jpg)
 
 ---
@@ -94,7 +97,6 @@ The README documentation can be found here:- [README.md](./README.md)
 >- To fix this on screen that is a width of 329px or less the logo is no longer displayed using `display: none;` which resolved the issue.
 
 ---
-# Other Technical Difficulties
-N/A
+
 
 ---
