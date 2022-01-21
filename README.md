@@ -138,7 +138,7 @@ Changes were made during development from the wireframes to improve the flow and
 >- Background = rbga(22, 18, 15, 0.996)
 >- Font = #fafafa
 >
->When the main colours where selected, I then compared the contrast ratio between the two ensure that the colours would obtain a [WCAG](https://webaim.org/resources/contrastchecker/) AAA rating and to confirm that the content of the site would be easily distinguishable from the background for users. 
+>When the main colours where selected, I then compared the contrast ratio between the two to ensure that the colours would obtain a [WCAG](https://webaim.org/resources/contrastchecker/) `AAA rating` and to confirm that the content of the site would be easily distinguishable from the background for users. 
 >
 >![WCAG Rating Image](./assets/images/site-wcag-rating.jpg)
 > 
