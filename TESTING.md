@@ -105,6 +105,6 @@ The README documentation can be found here:- [README.md](./README.md)
 
 ---
 
-Here is the link back to the [README.md](./README.md)
+The README documentation can be found here:- [README.md](./README.md)
 
 ---
