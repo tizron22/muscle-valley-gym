@@ -138,7 +138,13 @@ Changes were made during development from the wireframes to improve the flow and
 >- Background = rbga(22, 18, 15, 0.996)
 >- Font = #fafafa
 >
->Here are all of the colours that were used on the site:- ![Site Colour Palette](./assets/images/image-gradient-theme.jpg)
+>When the main colours where selected, I then compared the contrast ratio between the two ensure that the colours would obtain a [WCAG](https://webaim.org/resources/contrastchecker/) AAA rating and to confirm that the content of the site would be easily distinguishable from the background for users. 
+>
+>![WCAG Rating Image](./assets/images/site-wcag-rating.jpg)
+> 
+>**Here are all of the colours that were used on the site:-** 
+>
+>![Site Colour Palette](./assets/images/image-gradient-theme.jpg)
 
 ---
 ## Features
