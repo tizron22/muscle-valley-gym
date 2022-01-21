@@ -49,13 +49,16 @@ The README documentation can be found here:- [README.md](./README.md)
 |Video Playback | Works as intended | N/A
 
 # Browser Testing
-    All functionality worked as intended.
+    All functionality worked as intended on Safari, Chrome, Firefox and Edge. 
+    
+    As IE is no supported anymore this has not been tested.
 ---
 # Automated Testing
 >Automated testing was completed via the following third party applications:-
 >- [W3 Markup Validation](https://validator.w3.org/) - For the HTML Vaildation.
 >- [W3 Jigsaw](https://jigsaw.w3.org/css-validator/) - For the CSS Vaildation.
 >- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) - For Performance, Accessibility, Best Practices, SEO and Progressive Web Apps.
+>- [WAVE](https://wave.webaim.org/) - For Accessibility.
 
 
 1.[W3 Markup Validation](https://validator.w3.org/) - Testing
@@ -86,6 +89,10 @@ The README documentation can be found here:- [README.md](./README.md)
 
 ![Join Us Lighthouse Score](./assets/images/join-us-lighthouse.jpg)
 
+4.[WAVE](https://wave.webaim.org/) 
+
+    No errors found.
+
 ---
 # Significant Bugs
 >**1. About-us images stretching on longer screens**
@@ -98,5 +105,6 @@ The README documentation can be found here:- [README.md](./README.md)
 
 ---
 
+Here is the link back to the [README.md](./README.md)
 
 ---
