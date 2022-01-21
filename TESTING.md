@@ -39,14 +39,14 @@ The README documentation can be found here:- [README.md](./README.md)
 
 | Feature | Outcome | Additional Comments |
 |:--------|:--------|:---------|
-|Responsive Layout and design | Works as intended | N/A
-|Navigation Bar | Works as intended | N/A
-|Footer | Works as intended | N/A
-|Glowing Join Us Border | Works as intended | N/A
-|Carousel | Works as intended | N/A
-|Membership Levels Join-Us | Works as intended | N/A
-|Modals | Works as intended | N/A
-|Video Playback | Works as intended | N/A
+|Responsive Layout and design | Works as intended | Website tested on all breakpoints in chrome, mobile device and changing the size of the brower window.
+|Navigation Bar | Works as intended | All links on all sheets tested and directed to the intended pages, responseiveness already completed in the previous test.
+|Footer | Works as intended | All links all sheets opened up a new tab and directed users to the intended pages.
+|Glowing Join Us Border | Works as intended | The glow effect will pause when hovered with a mouse, will glow on the interval and link will direct to the home page.
+|Carousel | Works as intended | The carousel displays the images, pauses on hover and allows the user to navigate either fro the bottoms either side of the image or on the below options.
+|Membership Levels Join-Us | Works as intended | The `Join-Us` text background shows a different colour when hovered and the links open the modal on each click of the text.
+|Modals | Works as intended | The modal closes when using the buttons, sends off the form to the relevent location and all the fields capture the required infomation.
+|Video Playback | Works as intended | On landing on the About-us screen, the video autoplays on mute and all control buttons work as if use YouTube itself.
 
 # Browser Testing
     All functionality worked as intended on Safari, Chrome, Firefox and Edge. 
